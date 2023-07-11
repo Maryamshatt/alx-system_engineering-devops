@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -a 1 | past -a -d ''
